@@ -1,0 +1,12 @@
+{
+    "name": "andeladeveloper/tudamarket",
+    "authors": [
+        {
+            "name": "wapjude",
+            "email": "wapjude@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-gd": "*"
+    }
+}
